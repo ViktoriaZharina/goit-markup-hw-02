@@ -141,14 +141,14 @@ font-weight: 400;
         color: #f4f4fd;
 }
 
-.footer-logo-color[
+.footer-logo-color{
 font-weight: 700;
 font-size: 18px;
 line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-]
+}
 
 .footer-text{
     font-weight: 400;
@@ -157,4 +157,8 @@ color: #4d5ae5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 
+}
+
+ul {
+    list-style: none;
 }
