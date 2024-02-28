@@ -74,25 +74,25 @@ color: #434455;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-        line-height: 1.07
+        line-height: 1.07;
 }
 
 
 .section-one-btn{
         background: #4d5ae5;
         cursor: pointer;
-        font-weight: 500
-        line-height: 1.5
-        letter-spacing: 0.04em
-        color: #ffffff
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
 }
 
 .section-one-btn :hover{
-background-color: #404BBF
+background-color: #404BBF;
 }
 
 .section-one-btn :focus{
-    background-color: #404BBF
+    background-color: #404BBF;
 }
 
 
@@ -131,7 +131,7 @@ color: #434455;
 }
 
 .team-list{
-background-color: #FFFFFF
+background-color: #FFFFFF;
 }
 
 .team-item-title{
